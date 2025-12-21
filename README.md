@@ -18,6 +18,11 @@ Bu repo, React öğrenmek isteyenler için hazırlanmış Türkçe ders notları
 | 8 | useEffect | Yan etki yönetimi |
 | 9 | useContext | Global state yönetimi |
 | 10 | Debug | Hata ayıklama yöntemleri |
+| 11 | React Router | Sayfa yönlendirme ve routing |
+| 12 | API Nedir? | REST, GraphQL, WebSocket |
+| 13 | Axios GET | fetch, axios, async/await, JSON Server |
+| 14 | Axios POST/PUT/DELETE | CRUD işlemleri |
+| 15 | Asenkron Problemler | Race condition, memory leak, çözümler |
 
 ---
 
@@ -52,7 +57,11 @@ react öğreniyorum/
 ├── 8.ders useEffect/
 ├── 9.ders useContext/
 ├── 10.ders debug nedir/
-└── ornek projeler/
+├── 11.ders React Router/
+├── 12.ders API nedir/
+├── 13.ders axios ile GET isteği/
+├── 14.ders axios ile POST PUT DELETE/
+└── 15.ders asenkron problemler/
 ```
 
 ---

@@ -210,3 +210,4 @@ Slice dosyasında tanımlanıp export edilebilir.
 
 *Bu döküman React öğrenme serinizin 16. dersi için hazırlanmıştır.*
 
+

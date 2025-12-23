@@ -199,3 +199,4 @@ Sık karşılaşılan senaryolar:
 ---
 
 *Bu döküman React öğrenme serinizin 20. dersi için hazırlanmıştır.*
+

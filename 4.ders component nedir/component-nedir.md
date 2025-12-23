@@ -128,3 +128,4 @@ import { topla, cikar } from './helpers';
 ---
 
 *Bu döküman React öğrenme serinizin 4. dersi için hazırlanmıştır.*
+

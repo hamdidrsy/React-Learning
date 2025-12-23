@@ -198,4 +198,4 @@ Sık karşılaşılan senaryolar:
 
 ---
 
-*Bu döküman React öğrenme serinizin 19. dersi için hazırlanmıştır.*
+*Bu döküman React öğrenme serinizin 20. dersi için hazırlanmıştır.*

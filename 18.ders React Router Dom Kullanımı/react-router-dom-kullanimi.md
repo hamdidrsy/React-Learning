@@ -197,4 +197,4 @@ Layout yapılarında kullanılır.
 
 ---
 
-*Bu döküman React öğrenme serinizin 17. dersi için hazırlanmıştır.*
+*Bu döküman React öğrenme serinizin 18. dersi için hazırlanmıştır.*

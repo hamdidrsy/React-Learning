@@ -23,10 +23,11 @@ Bu repo, React öğrenmek isteyenler için hazırlanmış Türkçe ders notları
 | 13 | Axios GET | fetch, axios, async/await, JSON Server |
 | 14 | Axios POST/PUT/DELETE | CRUD işlemleri |
 | 15 | Asenkron Problemler | Race condition, memory leak, çözümler |
-| 16 | Redux Toolkit Nedir? | Global state yönetimi, neden ortaya çıktı, avantajları |
-| 17 | React Router Dom Kullanımı | Routes, Route, Link, useNavigate, useParams |
-| 18 | Nested Router Yapısı | İç içe route, Outlet, Layout route |
-| 19 | useParams ve useNavigate | Dinamik parametreler, programatik yönlendirme |
+| 16 | Redux Toolkit Kurulum | Kurulum, store, slice, useSelector, useDispatch |
+| 17 | Redux Toolkit Nedir? | Global state yönetimi, neden ortaya çıktı, avantajları |
+| 18 | React Router Dom Kullanımı | Routes, Route, Link, useNavigate, useParams |
+| 19 | Nested Router Yapısı | İç içe route, Outlet, Layout route |
+| 20 | useParams ve useNavigate | Dinamik parametreler, programatik yönlendirme |
 
 ---
 
@@ -66,10 +67,11 @@ react öğreniyorum/
 ├── 13.ders axios ile GET isteği/
 ├── 14.ders axios ile POST PUT DELETE/
 ├── 15.ders asenkron problemler/
-├── 16.ders Redux Toolkit Nedir/
-├── 17.ders React Router Dom Kullanımı/
-├── 18.ders Nested Router Yapısı/
-└── 19.ders UseParams ve UseNavigate Kullanımı/
+├── 16.ders Redux Toolkit Kurulum ve Kullanımı/
+├── 17.ders Redux Toolkit Nedir/
+├── 18.ders React Router Dom Kullanımı/
+├── 19.ders Nested Router Yapısı/
+└── 20.ders UseParams ve UseNavigate Kullanımı/
 ```
 
 ---

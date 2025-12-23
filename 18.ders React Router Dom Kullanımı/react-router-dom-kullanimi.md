@@ -200,3 +200,4 @@ Layout yapılarında kullanılır.
 *Bu döküman React öğrenme serinizin 18. dersi için hazırlanmıştır.*
 
 
+.

@@ -95,3 +95,4 @@ const [kullanici, setKullanici] = useState({}); // Object
 
 *Bu döküman React öğrenme serinizin 7. dersi için hazırlanmıştır.*
 
+

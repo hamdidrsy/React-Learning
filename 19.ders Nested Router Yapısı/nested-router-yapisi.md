@@ -220,3 +220,4 @@ Parent'ta Outlet'e context verilir, child'da useOutletContext hook'u ile alını
 *Bu döküman React öğrenme serinizin 19. dersi için hazırlanmıştır.*
 
 
+.

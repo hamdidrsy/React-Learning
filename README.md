@@ -8,15 +8,15 @@ Bu repo, React öğrenmek isteyenler için hazırlanmış Türkçe ders notları
 
 | Ders | Konu | Açıklama |
 |------|------|----------|
-| 1 | React Nedir? | React'in tanımı ve temel özellikleri |
-| 2 | Ortam Hazırlama | Node.js, npm ve proje kurulumu |
-| 3 | JSX Nedir? | JavaScript XML söz dizimi |
-| 4 | Component Nedir? | Yeniden kullanılabilir UI parçaları |
-| 5 | Props Nedir? | Component'lere veri aktarımı |
-| 6 | Hooks Nedir? | React hooks'lara giriş |
-| 7 | useState | State yönetimi |
-| 8 | useEffect | Yan etki yönetimi |
-| 9 | useContext | Global state yönetimi |
+| 01 | React Nedir? | React'in tanımı ve temel özellikleri |
+| 02 | Ortam Hazırlama | Node.js, npm ve proje kurulumu |
+| 03 | JSX Nedir? | JavaScript XML söz dizimi |
+| 04 | Component Nedir? | Yeniden kullanılabilir UI parçaları |
+| 05 | Props Nedir? | Component'lere veri aktarımı |
+| 06 | Hooks Nedir? | React hooks'lara giriş |
+| 07 | useState | State yönetimi |
+| 08 | useEffect | Yan etki yönetimi |
+| 09 | useContext | Global state yönetimi |
 | 10 | Debug | Hata ayıklama yöntemleri |
 | 11 | React Router | Sayfa yönlendirme ve routing |
 | 12 | API Nedir? | REST, GraphQL, WebSocket |
@@ -52,15 +52,15 @@ npm start
 
 ```
 react öğreniyorum/
-├── 1.ders-react-nedir/
-├── 2.ders-react-ortamHazirlanmasi-kurulumu/
-├── 3.ders jsx nedir neden kullanılırız/
-├── 4.ders component nedir/
-├── 5.ders Props Nedir/
-├── 6.ders hooks nedir/
-├── 7.ders useState nedir/
-├── 8.ders useEffect/
-├── 9.ders useContext/
+├── 01.ders-react-nedir/
+├── 02.ders-react-ortamHazirlanmasi-kurulumu/
+├── 03.ders jsx nedir neden kullanılırız/
+├── 04.ders component nedir/
+├── 05.ders Props Nedir/
+├── 06.ders hooks nedir/
+├── 07.ders useState nedir/
+├── 08.ders useEffect/
+├── 09.ders useContext/
 ├── 10.ders debug nedir/
 ├── 11.ders React Router/
 ├── 12.ders API nedir/

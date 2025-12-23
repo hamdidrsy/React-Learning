@@ -144,3 +144,4 @@ Tip tanımlamaları dahili olarak gelir. Ekstra yapılandırma gerektirmez.
 ---
 
 *Bu döküman React öğrenme serinizin 17. dersi için hazırlanmıştır.*
+

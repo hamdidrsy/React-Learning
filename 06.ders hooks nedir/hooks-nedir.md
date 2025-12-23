@@ -120,3 +120,4 @@ Hooks = Functional Component + State + Lifecycle
 
 *Bu döküman React öğrenme serinizin 6. dersi için hazırlanmıştır.*
 
+

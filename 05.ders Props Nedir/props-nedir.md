@@ -206,3 +206,4 @@ function App() {
 *Bu döküman React öğrenme serinizin 5. dersi için hazırlanmıştır.*
 
 
+.
